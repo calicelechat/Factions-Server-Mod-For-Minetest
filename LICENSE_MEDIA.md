@@ -1,5 +1,5 @@
 Textures made by plutonium.
-boundaries.png from [Protector Blocks for Area Protection Mod]([GITHUB REPOSITORY TO THE MOD HERE]) by TenPlus1, CC0
+boundaries.png from [Protector Blocks for Arena Protection Mod](https://github.com/C-C-Minetest-Server/protect_block_area) by TenPlus1, CC0
 
 Attribution-ShareAlike 4.0 International
 
